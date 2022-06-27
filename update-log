@@ -1,4 +1,15 @@
 allupdate = {
+    ["Latest Updates"] =  {
+        ["[+]"] ={
+            "Auto Farm Level","Auto Farm [ Select Mon ]","Fast Attack","Attack NoColldown","Auto Buso","Auto Upgrade [ Stats ]","Teleport IsLand","Teleprot Sea","TP to Players","Shop","Money Farm [ Chest ]","Redeem Code"
+        },
+        ["[-]"] = {
+
+        },
+        ["[*]"] ={
+            "Fix Bug Teleport"
+        }
+    },
     ["27/6/2021 | Vesion 1.0"] = {
         ["[+]"] ={
             "Auto Farm Level","Auto Farm [ Select Mon ]","Fast Attack","Attack NoColldown","Auto Buso","Auto Upgrade [ Stats ]","Teleport IsLand","Teleprot Sea","TP to Players","Shop","Money Farm [ Chest ]","Redeem Code"
