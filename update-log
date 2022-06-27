@@ -7,7 +7,7 @@ allupdate = {
 
         },
         ["[*]"] ={
-
+            "Fix Bug Teleport"
         }
     }
 }
